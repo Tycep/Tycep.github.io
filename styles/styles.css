@@ -162,6 +162,7 @@ color: #fcdb00;
 .email-wrapper{
 	display: flex;
 	align-items: center;
+   justify-content: center;
 }
 .email{
 	display: inline-block;
